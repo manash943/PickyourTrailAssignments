@@ -34,7 +34,6 @@ public class MudWalls {
     }
  
     public static void main(String[] args) throws FileNotFoundException {
-        System.setIn(new FileInputStream(System.getProperty("user.home") + "/" + "in9.txt"));
  
         Scanner sc = new Scanner(System.in);
  
